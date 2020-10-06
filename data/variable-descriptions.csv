@@ -1,0 +1,73 @@
+TIMESTAMP_START, measurement start timestamp
+TIMESTAMP_END, measurement end timestamp
+NEE, Net Ecosystem Exchange measured at 28 m,umol CO2 m-2 s-1
+FC, Flux of carbon, measured at 28 m,umol CO2 m-2 s-1
+LE, Latent heat flux,W m-2
+H, Sensible heat flux,W m-2
+USTAR, Friction velocity, m s-1
+NETRAD_1_1_1, Net Radiation sensor 1,W m-2
+NETRAD_1_2_1, Net Radiation sensor 2,W m-2
+SW_IN, Downwelling shortwave radiation,W m-2
+SW_OUT, Outgoing shortwave radiation,W m-2
+LW_IN, Downwelling longwave radiation,W m-2
+LW_OUT, Outgoing longwave radiation,W m-2
+PPFD_IN, 
+PPFD_OUT, 
+PPFD_BC_IN, 
+TA_1_1_1, Air temperature above canopy at 28 m,C
+TA_1_2_1, Air temperature in canopy at 14 m,C
+TA_1_3_1, Air temperature below canopy at 2 m,C
+RH_1_1_1, Relative humidity above canopy at 28 m,%
+RH_1_2_1, Relative humidity in canopy at 14 m,%
+RH_1_3_1, Relative humidity below canopy at 2 m,%
+WS, 
+WD, 
+PA, 
+TS_1_1_1, 
+TS_1_2_1, 
+TS_1_3_1, 
+TS_1_4_1, 
+TS_1_5_1, 
+TS_1_6_1, 
+TS_2_1_1, 
+TS_2_2_1, 
+TS_2_3_1, 
+TS_2_4_1, 
+TS_2_5_1, 
+TS_2_6_1, 
+SWC_1_1_1, 
+SWC_1_2_1, 
+SWC_1_3_1, 
+SWC_1_4_1, 
+SWC_1_5_1, 
+SWC_2_1_1, 
+SWC_2_2_1, 
+SWC_2_3_1, 
+SWC_2_4_1, 
+SWC_2_5_1, 
+G_1_1_1, 
+G_2_1_1, 
+TA_F_1_1_1, 
+RH_F_1_1_1, 
+PPFD_IN_F, 
+WS_F, 
+PA_F, 
+NETRAD_F, 
+SW_IN_F, 
+TS_F_1, 
+TS_F_2, 
+TS_F_3, 
+TS_F_4, 
+TS_F_5, 
+TS_F_6, 
+P_F, 
+LW_IN_F, 
+D_SNOW, 
+WTD, 
+W_SIGMA, 
+V_SIGMA, 
+GPP_F, 
+RECO_F, 
+NEE_F, 
+P_RAIN_F, 
+VPD_F, 
